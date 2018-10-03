@@ -1,14 +1,4 @@
-def hello(name):
-    print('Hello, '+ name + '!')
-hello('jantje')
-
-
-s= input('Enter square or cube:')
-if s== 'square' :
-    def f(x):
-        'Oppervlakte'
-        return x*x
-else:
-    def f(x):
-        'Oppervlakte cube'
-        return x*x*x
+def hella(cash):
+    'ewaja'
+    grades = {95, 96, 100, 85, 90, 95, 100,100}
+    frequency(grades)
