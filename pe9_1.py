@@ -8,3 +8,5 @@ def sum():
 
     print('Dit is de uitkomst van de optelling', total)
 sum()
+
+# If you type 0, it stops counting

@@ -1,4 +1,3 @@
-def hella(cash):
-    'ewaja'
-    grades = {95, 96, 100, 85, 90, 95, 100,100}
-    frequency(grades)
+d={'a':1,'b':2,'c':3}
+for kv in d.items():
+    print(if d.values() >= 9 kv[1])
